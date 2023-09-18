@@ -1,0 +1,1 @@
+Este é um projeto realizado por mim Artur Francisco Pereira Carvalho, durante o envento NLW IA da rocketseat, estive presente na trilha foundations desse evento, e durante a trilha pude desenvolver esse projeto que realiza o download de shorts do youtube, faz um transcrição dele e realiza um resumo do conteúdo transcrito.
